@@ -7,3 +7,7 @@ Date_dim: This dimension table is a date hierarchy, it is adapted from the scrip
 Time_dim: This dimension table was created using the script from https://radacad.com/script-for-creating-time-table-in-power-bi-with-hours-minutes-and-seconds-buckets. I did not make any changes to this script. The script I used is available in time_dim_script.txt.
 
 The Line Chart: This chart shows my high, average and low heart rates. The fileds available to drill down into are: Year, Month, Day, Am/PM, Hour, and Minute (in 10 minute buckets).
+
+![FitBit_Heart_Rate_Chart](https://github.com/user-attachments/assets/a1f85a1b-cfc7-4b57-b628-6ac5fab76579)
+
+
