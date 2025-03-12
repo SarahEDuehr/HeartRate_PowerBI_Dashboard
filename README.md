@@ -11,6 +11,6 @@ This dimension table was created using the script from https://radacad.com/scrip
 ## The Line Chart: 
 This chart shows my high, average and low heart rates. The fileds available to drill down into are: Month, Day, Am/PM, Hour, and Minute (in 10 minute buckets).
 
-![FitBit_Heart_Rate_Chart](https://github.com/user-attachments/assets/a1f85a1b-cfc7-4b57-b628-6ac5fab76579)
+![FitBit_Heart_Rate_Chart](FitBit_Heart_Rate_Chart.jpg)
 
 
