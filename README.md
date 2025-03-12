@@ -1,6 +1,4 @@
 # HeartRate PowerBI Dashboard
-Dashboard with a chart of average, high, and low heart rate from FitBit data.
-
 A quick dashboard using the first 10 days of my new FitBit's heart rate data. There are three tables: heart_rate, date_dim and time_dim, and a line chart.
 
 ##Heart_rate table: 
