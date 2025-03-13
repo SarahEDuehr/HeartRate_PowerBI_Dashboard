@@ -32,3 +32,4 @@ Here are some images of the day/time levels, all these images are also in the Fi
 ### Page 2
 This page has two charts showing how often my FitBit took heart rate readings. The top bar chart shows the number of readings with 5, 10, 15, etc seconds from the last reading. The line chart shows the average number of seconds between readings by date. The levels available to drill down into are: Month, Day, Am/PM, Hour, and Minute (in 10 minute buckets).
 
+![FitBit_Heart_Rate_Chart](FitBit_Heart_Rate_Dashboard_Page_2.jpg)
